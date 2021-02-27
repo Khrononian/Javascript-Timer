@@ -1,0 +1,46 @@
+html {
+    
+    margin: 0;
+    width: 100%;
+    font-size: 23px;
+}
+body {
+    background: #eed202;
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #000;
+}
+.jsstopwatch {
+    margin: auto;
+    text-align: center;
+}
+#stopwatch {
+    font-size: 2rem;
+    color: #000;
+}
+.buttonlist {
+    display: inline-flex;
+    text-align: center;
+}
+.buttonlist li {
+    list-style-type: none;
+}
+.buttonlist button {
+    cursor: pointer;
+    padding: .7em 2em;
+    margin: .5em 1em;
+    background: transparent;
+    border: 1px solid black;
+    border-radius: 7px;
+    font-size: .75rem;
+}
+.buttonlist button:hover {
+    background: #000;
+    color: #eed202;
+}
+
+
+
+

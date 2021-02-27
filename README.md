@@ -1,3 +1,3 @@
 # Javascript-Clock
 
-A simple clock project to practice javascript skills 
+A simple timer project to practice javascript skills 
